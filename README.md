@@ -1,14 +1,18 @@
-# PKURemote
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Environment](https://img.shields.io/badge/Windows-XP, Vista, 7, 8, 10-yellow.svg)
-![Release](https://img.shields.io/github/release/hsluoyz/PKURemote.svg)
-![License](https://img.shields.io/github/license/hsluoyz/PKURemote.svg)
+PKURemote
+==========
 
-A port rewritting utility to modify the source or destination port for packets on Windows. It is based on MFC UI. It uses [**WinDivert**](https://github.com/basil00/Divert) for packet manipulations.
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Environment](https://img.shields.io/badge/Windows-XP,%20Vista,%207,%208,%2010-brightgreen.svg)
+[![Release](https://img.shields.io/github/release/osvt/pkuremote.svg)](https://github.com/osvt/pkuremote/releases)
+![License](https://img.shields.io/github/license/osvt/pkuremote.svg)
+![Downloads](https://img.shields.io/github/downloads/osvt/pkuremote/latest/total.svg)
+![TotalDownloads](https://img.shields.io/github/downloads/osvt/pkuremote/total.svg)
+
+**PKURemote** is a port rewritting utility to modify the source or destination port for packets on Windows. It is based on MFC UI. It uses [**WinDivert**](https://github.com/basil00/Divert) for packet manipulations.
 
 ## Build
 
-Use Visual Studio 2005 and later to build this project.
+Use ``Visual Studio 2005`` and later to build this project.
 
 ## Usage
 
